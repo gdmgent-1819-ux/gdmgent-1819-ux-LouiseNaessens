@@ -16,12 +16,12 @@
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
-.colors{
+.colors {
     display:flex;
     flex-wrap:wrap;
 }
 
-.maincolor{
+.maincolor {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,7 +34,7 @@
     border: solid black;
 }
 
-.secondcolor{
+.secondcolor {
     display:flex;
     justify-content: center;
     align-items: center;
