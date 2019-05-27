@@ -15,3 +15,21 @@
     margin: 2rem 0 .5rem 0;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
+
+.colors{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.maincolor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6CBFC5
+    width: 12rem;
+    height: 12rem;
+    margin-left:4rem;
+    margin-right:4rem;
+    margin-top:3rem;
+    border: solid black;
+}
